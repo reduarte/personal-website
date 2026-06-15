@@ -11,7 +11,7 @@ role: Postdoctoral Fellow, Cowles Foundation, Yale University
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Yale University (Cowles Foundation for Research in Economics)
-    url: https://cowles.yale.edu/political-economy
+    url: https://cowles.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Political economist studying state capacity, corruption, and the political economy of development. Postdoctoral Fellow at Yale's Cowles Foundation and incoming Assistant Professor of Economics at Florida International University.
@@ -22,7 +22,8 @@ interests:
   - Development Economics
   - Public Finance
   - Comparative Politics
-  - State Capacity & Corruption
+  - State Capacity
+  - Corruption
   - Applied Machine Learning
 
 # Education to show in About widget
@@ -31,10 +32,12 @@ education:
     - course: PhD in Political Economy & Government
       institution: Harvard University
       year: 2026
-    - course: MPA in International Development (MPA/ID)
+    - course: Master in Public Administration in International Development (MPA/ID)
       institution: Harvard Kennedy School
-    - course: BA in Economics and Mathematics
+      year: 2019
+    - course: Bachelor of Arts in Economics
       institution: Washington University in St. Louis
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,8 +67,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a Postdoctoral Fellow at the [Cowles Foundation for Research in Economics](https://cowles.yale.edu/political-economy) at Yale University, affiliated with its Political Economy program. In 2027, I will join [Florida International University](https://economics.fiu.edu/) as an Assistant Professor of Economics. My research spans political economy, economic development, comparative politics, and public finance, and my coauthored work is published in the *Review of Economic Studies*. Among my specific interests are state capacity, corruption, applied machine learning, social networks, electoral integrity, and clientelism.
+I am a Postdoctoral Fellow at the [Cowles Foundation for Research in Economics](https://cowles.yale.edu/visiting-faculty/postdoctoral-fellows-program) at Yale University, affiliated with its [Political Economy program](https://cowles.yale.edu/political-economy). In 2027, I will join [Florida International University](https://economics.fiu.edu/) as an Assistant Professor of Economics. My research spans political economy, economic development, comparative politics, and public finance. Among my specific interests are state capacity, corruption, applied machine learning, social networks, electoral integrity, and clientelism. My coauthored work is published in the *Review of Economic Studies*.
 
-I earned my PhD in Political Economy & Government from Harvard University. Before my doctoral studies, I graduated from Harvard Kennedy School's MPA/ID program and from Washington University in St. Louis, where I studied Economics and Mathematics. I have also worked as a consultant for the World Bank and the Inter-American Development Bank.
+I earned my [PhD in Political Economy & Government](https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-political-economy-government) from Harvard University. Before my doctoral studies, I graduated from Harvard Kennedy School's [MPA/ID program](https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-administration-international-development) and from Washington University in St. Louis, where I studied Economics and Mathematics. I have also worked as a consultant for the World Bank and the Inter-American Development Bank.
 
 {{< icon name="download" pack="fas" >}} You can download my CV [here](uploads/cv.pdf).

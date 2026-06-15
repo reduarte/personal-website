@@ -24,7 +24,7 @@ design:
 ---
 
 ### Opinion Articles and Blog Posts
-- ["Aprendiendo de la historia: para acabar con el nepotismo, hay que levantarse"](https://www.abc.com.py/opinion/2024/01/31/paraguay-no-esta-condenado-a-la-corrupcion-eterna/) [Learning from history: to end nepotism, one must rise up] (ABC Color, January 2024)
+- ["Aprendiendo de la historia: para acabar con el nepotismo, hay que levantarse"](https://www.abc.com.py/opinion/2024/01/31/paraguay-no-esta-condenado-a-la-corrupcion-eterna/) [Learning from history: to end nepotism, we must rise up] (ABC Color, January 2024)
 
 <!-- Add interviews and media appearances as they accumulate, e.g.:
 ### Interviews and Media Appearances

@@ -27,18 +27,22 @@ content:
   # Contact details (edit or remove options as required)
   email: rduarte@g.harvard.edu
   #phone:
-  #address:
-  #  street:
-  #  city:
-  #  region:
-  #  postcode: ''
-  #  country:
-  #  country_code:
+  address:
+    street: 30 Hillhouse Avenue
+    city: New Haven
+    region: CT
+    postcode: '06511'
+    country: United States
+    country_code: US
   contact_links:
     - icon: google-scholar
       icon_pack: ai
       name: Google Scholar
       link: 'https://scholar.google.com/citations?user=g5CkCLAAAAAJ&hl=en'
+    - icon: twitter
+      icon_pack: fab
+      name: Twitter
+      link: 'https://x.com/rduartegonzalez'
 design:
   columns: '2'
 ---
