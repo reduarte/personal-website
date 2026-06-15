@@ -35,10 +35,6 @@ content:
     country: United States
     country_code: US
   contact_links:
-    - icon: google-scholar
-      icon_pack: ai
-      name: Google Scholar
-      link: 'https://scholar.google.com/citations?user=g5CkCLAAAAAJ&hl=en'
     - icon: twitter
       icon_pack: fab
       name: Twitter
