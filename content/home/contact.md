@@ -25,7 +25,7 @@ content:
       #captcha: false
 
   # Contact details (edit or remove options as required)
-  email: raulduartegonzalez@gmail.com
+  email: rduarte@g.harvard.edu
   #phone:
   #address:
   #  street:
