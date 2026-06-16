@@ -56,12 +56,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rduartegonzalez/
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/rduartegonzalez.bsky.social
   - icon: twitter
     icon_pack: fab
     link: https://x.com/rduartegonzalez
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/rduartegonzalez.bsky.social
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
