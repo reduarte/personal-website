@@ -25,7 +25,7 @@ content:
       #captcha: false
 
   # Contact details (edit or remove options as required)
-  email: rduarte@g.harvard.edu
+  email: raul.duarte@yale.edu
   #phone:
   address:
     street: 30 Hillhouse Avenue
