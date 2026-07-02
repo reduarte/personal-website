@@ -1,0 +1,34 @@
+{{/* Clickable-but-obfuscated contact email.
+
+  Assembles the contact email as a real `mailto:` link in the browser, from separate
+  string parts, so the full address and the `mailto:` prefix never appear as a
+  harvestable string in the served HTML. This cuts spam from the many email harvesters
+  that only scan static HTML for `name@domain` patterns and `mailto:` links, while
+  keeping a normal one-click link for humans.
+
+  Loaded automatically via the theme's `head-end` hook (partials/functions/get_hook.html),
+  so no theme files are overridden. The no-JavaScript fallback is the human-readable,
+  non-machine-parseable form set in content/home/contact.md (`raul.duarte 'at' yale.edu`);
+  this script upgrades the #person-email element (rendered by the contact widget) to a
+  clickable link once the DOM is ready. */}}
+<script>
+  (function () {
+    function buildEmailLink() {
+      var el = document.getElementById("person-email");
+      if (!el) return;
+      var user = "raul.duarte";
+      var domain = "yale.edu";
+      var address = user + "@" + domain;
+      var link = document.createElement("a");
+      link.href = "mail" + "to:" + address;
+      link.textContent = address;
+      el.textContent = "";
+      el.appendChild(link);
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", buildEmailLink);
+    } else {
+      buildEmailLink();
+    }
+  })();
+</script>

@@ -15,7 +15,9 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  # Kept false so the raw email address is not emitted into the page HTML; a clickable
+  # mailto link is assembled client-side (see layouts/partials/hooks/head-end/email-link.html).
+  autolink: false
 
   # Email form provider
   #form:
@@ -25,7 +27,9 @@ content:
       #captcha: false
 
   # Contact details (edit or remove options as required)
-  email: raul.duarte@yale.edu
+  # No-JavaScript fallback only (obfuscated, no "@"). JavaScript upgrades this to a real
+  # clickable mailto link so the plain address is never present in the served HTML.
+  email: "raul.duarte 'at' yale.edu"
   #phone:
   address:
     street: 30 Hillhouse Avenue
