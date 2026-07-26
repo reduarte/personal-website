@@ -59,6 +59,6 @@ Abstract: Do leaders court or cut the entourage of sidelined elites during econo
 *with Chang-Tai Hsieh*
 
 ### Technological Capacity
-*with Anders Jensen. In the* Oxford Handbook of State Building and State Capacity, *eds. Mark Dincecco and Yuhua Wang. Oxford University Press.*
+with Anders Jensen. Chapter in preparation for the **Oxford Handbook of State Building and State Capacity**, eds. Mark Dincecco and Yuhua Wang. Oxford University Press.
 
 ### Voting Technology, Political Competition, and Clientelism
