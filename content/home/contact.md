@@ -38,11 +38,6 @@ content:
     postcode: '06511'
     country: United States
     country_code: US
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: Twitter
-      link: 'https://x.com/rduartegonzalez'
 design:
   columns: '2'
 ---

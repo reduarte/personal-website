@@ -74,4 +74,4 @@ I am a Postdoctoral Fellow at the [Cowles Foundation for Research in Economics](
 
 I earned my [PhD in Political Economy & Government](https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-political-economy-government) from Harvard University. Before my doctoral studies, I graduated from Harvard Kennedy School's [MPA/ID program](https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-administration-international-development) and from Washington University in St. Louis, where I studied Economics and Mathematics. I have also worked as a consultant for the World Bank and the Inter-American Development Bank.
 
-{{< icon name="download" pack="fas" >}} You can download my CV [here](uploads/cv.pdf).
+{{< icon name="download" pack="fas" >}} You can download my CV [here](/uploads/cv.pdf).
